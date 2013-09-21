@@ -1,0 +1,2 @@
+After being unable to establish a connection using my 3G dongle, I had to downgrade ModemManager to version 0.5.2.
+This script will create an overlay, add the necessary files for the ebuild and then emerge the aforementioned version.
